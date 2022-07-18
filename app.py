@@ -1,2 +1,2 @@
 print("Hello india")
-print("from dev2")
+print("from dev1")
